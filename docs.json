@@ -32,6 +32,10 @@
               "governance/creating-a-proposal",
               "governance/trading-a-proposal"
             ]
+          },
+          {
+            "group": "Stakeholders",
+            "pages": ["stakeholders/founders", "stakeholders/investors"]
           }
         ]
       }
