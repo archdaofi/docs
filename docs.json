@@ -19,11 +19,19 @@
           },
           {
             "group": "Launching your Project",
-            "pages": []
+            "pages": [
+              "launch/prepare-your-project",
+              "launch/launching",
+              "launch/the-raise"
+            ]
           },
           {
             "group": "Futarchy & Governance",
-            "pages": []
+            "pages": [
+              "governance/introduction",
+              "governance/creating-a-proposal",
+              "governance/trading-a-proposal"
+            ]
           }
         ]
       }
@@ -51,13 +59,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hi@archdao.fi"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Launched Projects",
+      "href": "https://archdao.fi/"
     }
   },
   "contextual": {
@@ -74,9 +82,8 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/ArchDAOfi",
+      "github": "https://github.com/ArchDAOfi"
     }
   }
 }
