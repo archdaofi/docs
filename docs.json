@@ -9,7 +9,8 @@
   },
   "favicon": "/favicon.png",
   "thumbnails": {
-    "background": "images/thumbnail.png"
+    "background": "images/thumbnail.png",
+    "appearance": "light"
   },
   "navigation": {
     "tabs": [
