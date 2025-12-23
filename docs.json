@@ -8,6 +8,9 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.png",
+  "thumbnails": {
+    "background": "images/thumbnail.png"
+  },
   "navigation": {
     "tabs": [
       {
