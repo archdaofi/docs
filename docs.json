@@ -3,6 +3,10 @@
   "theme": "mint",
   "name": "ArchDao Documentation",
   "description": "Documentation for ArchDAO a platform for tokenizing projects using governance tokens",
+  "appearance": {
+    "default": "dark",
+    "strict": true
+  },
   "colors": {
     "primary": "#49B4F7",
     "light": "#49B4F7",
