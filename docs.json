@@ -60,6 +60,11 @@
           "anchor": "Follow for updates",
           "href": "https://x.com/ArchDAOfi",
           "icon": "square-x-twitter"
+        },
+        {
+          "anchor": "Whitepaper",
+          "href": "https://whitepaper.archdao.fi/",
+          "icon": "file-text"
         }
       ]
     }
