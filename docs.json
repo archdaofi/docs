@@ -15,7 +15,7 @@
   "favicon": "/favicon.png",
   "thumbnails": {
     "background": "images/thumbnail.png",
-    "appearance": "dark"
+    "appearance": "light"
   },
   "navigation": {
     "tabs": [
